@@ -1,2 +1,2 @@
 # Website
-Static website with information about our services
+Static website for our business
