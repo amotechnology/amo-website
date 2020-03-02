@@ -1,8 +1,8 @@
 .navbar-custom { 
-    background-color: #171717; 
-} 
+    background-color: #171717 !important; 
+}
 
 .navbar-custom .navbar-brand, 
 .navbar-custom .navbar-text { 
-    color: #05AF3D; 
+    color: #05AF3D !important; 
 } 
