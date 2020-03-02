@@ -38,13 +38,15 @@
             <div class="row headshots">
                 <div class="col-6">
                     <figure> 
-                        <img src="img/andrew.jpeg" alternate="Andrew Mitra, Washington University in St. Louis '21'">
-                        <figcaption id="acap"> Andrew Mitra, Washington University in St. Louis '21 </figcaption>
+                        <img src="img/andrew.jpeg" class="figure-img center rounded" alternate="Andrew Mitra, Washington University in St. Louis '21'">
+                        <figcaption class="figure-caption text-right center-text"> Andrew Mitra, Washington University in St. Louis '21 </figcaption>
                     </figure>
                 </div>
                 <div class="col-6"> 
-                    <img src="img/olly.jpg" alternate="Olly Cohen, Washington University in St. Louis '21'">
-                     <figcaption id="ocap"> Olly Cohen, Washington University in St. Louis '21 </figcaption>
+                    <figure> 
+                        <img src="img/olly.jpg" class="figure-img center rounded" alternate="Olly Cohen, Washington University in St. Louis '21'">
+                        <figcaption class="figure-caption text-right center-text"> Olly Cohen, Washington University in St. Louis '21 </figcaption>
+                    </figure>
                 </div>
              </div>
         </div>

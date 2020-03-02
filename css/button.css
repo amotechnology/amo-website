@@ -1,0 +1,14 @@
+.btn-custom, 
+.btn-custom:active,
+.btn-custom:visited,
+.btn-custom:focus{
+    color: white;
+    background-color: #171717;
+    border-color: #05AF3D;
+}
+
+.btn-custom:hover {
+    background-color: #05AF3D;
+    border-color: #05AF3D;
+    color: white;
+}
