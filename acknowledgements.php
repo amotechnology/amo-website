@@ -1,6 +1,6 @@
 <?php require 'header.php'; ?> 
 
-<link rel="stylesheet" href="css/contact.css">
+<link rel="stylesheet" href="css/acknowledgements.css">
 </head>
 
 <body>
@@ -33,20 +33,14 @@
 
     <div class="container">
         <div>
-            <h1>Contact Us</h1>
+            <h1>Acknowledgements</h1>
         </div>
 
         <div>
-            <h3>Client</h3>
-            <p>Interested in learning more about our services? Click the button below to schedule a consultation</p>
-            <a class="btn btn-primary btn-custom" href="https://docs.google.com/forms/d/e/1FAIpQLScmWtM68ttSFSujNlNqGmJ09FSPTa7CKpnaEGImf9pnDB8I2g/viewform" target="_blank" role="button">Schedule Here</a>
+            <p>Oliver and Andrew would like to thank 10KE for supporting us. We were able to start Ano.Technology thanks to the grant we received from 10KE. We wish to make the most out of the grant we received to make a significant impact on the St. Louis community and Washington University.</p>
+            <p>We would also like to thank Washington University for teaching us the skills needed to be able to start this venture. Without Wash U, it would have been much harder to grow as developers and to get to the position we are in now. We also rely on Wash U students who are an invaluable part of our company. Thanks to them, we are able to help more companies with their software needs.</p>
         </div>
        
-        <div>
-            <h3>Student</h3>
-            <p>Are a Washu student and interested in applying for our software development internship? Click button below to apply</p>
-            <a class="btn btn-primary btn-custom" href="https://docs.google.com/forms/d/e/1FAIpQLSe24nCF1n-xwSImOXu5GiBat4MPV6f80QvljgU6iI-n_aM23A/viewform" target="_blank" role="button">Apply Here</a>
-        </div>
     </div>
 
 

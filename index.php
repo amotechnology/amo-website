@@ -6,7 +6,10 @@
 <body>
 
 <nav class="navbar navbar-expand-md bg-dark navbar-dark navbar-custom sticky-top">
-  <a class="navbar-brand" href="#">Logo</a>
+  <a class="navbar-brand" href="index.php">
+    <img src="img/anologo.svg" width="50" height="50" class="d-inline-block align-top" alt="">
+  </a>
+
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -20,6 +23,9 @@
         </li>
         <li class="nav-item">
           <a class="nav-link navbar-brand" href="contact.php">Contact Us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link navbar-brand" href="acknowledgements.php">Acknowledgements</a>
         </li>
       </ul>
   </div>  
@@ -40,8 +46,8 @@
 
 <div>
   <h3>Who we serve</h3>
-  <p>St. Louis Business: Add value to local businesses with technology and strengthen the connection between St. Louis tech and Wash U students.</p>
-  <p>Students: Provide valuable real-world software engineering work during the semester that fits into their academic schedules.</p>
+  <p>St. Louis Business: Add value to local businesses with technology and strengthen the connection between St. Louis tech and Wash U students. <a class="hyperlink-change" href="https://docs.google.com/forms/d/e/1FAIpQLScmWtM68ttSFSujNlNqGmJ09FSPTa7CKpnaEGImf9pnDB8I2g/viewform" target="_blank">Schedule Consultation</a>.</p>
+  <p>Students: Provide valuable real-world software engineering work during the semester that fits into their academic schedules. <a class="hyperlink-change" href="https://docs.google.com/forms/d/e/1FAIpQLSe24nCF1n-xwSImOXu5GiBat4MPV6f80QvljgU6iI-n_aM23A/viewform" target="_blank">Apply Here</a>.</p>
 </div>
 
 <div>
@@ -51,18 +57,17 @@
 
 <div>
   <h3>Our Principles</h3>
-  <p>Think bigger. Help. Love. Presence. Do the hard thing. Take it easy. People first. Beauty. Tell the truth. Open.
+  <p>Think bigger. Help. Love. Presence. Do the hard thing. Take it easy. People first. Beauty. Tell the truth. Open. </p>
 </div>
 
+
 <div>
-  <h3>Our Process</h3>
-  <ul>
-    <li>Listen - Understand our client.</li>
-    <li>Design - Solve the problem. </li>
-    <li>Build - Write the code. </li>
-    <li>Reflect - What did we get wrong? How can we improve? </li> 
-    <li>Iterate.</li>
-  </ul>
+  <h3>Our Process</h3><br>
+  <p>Listen - Understand our client</p>
+  <p>Design - Solve the problem.</p>
+  <p>Build - Write the code.</p>
+  <p>Reflect - What did we get wrong? How can we improve?</p>
+  <p>Iterate.</p>
 </div>
 <div>
 </body>
