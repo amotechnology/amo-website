@@ -37,7 +37,7 @@
         </div>
 
         <div>
-            <p>Oliver and Andrew would like to thank 10KE for supporting us. We were able to start Ano.Technology thanks to the grant we received from 10KE. We wish to make the most out of the grant we received to make a significant impact on the St. Louis community and Washington University.</p>
+            <p>Oliver and Andrew would like to thank 10KE for supporting us. We were able to start Amo.Technology thanks to the grant we received from 10KE. We wish to make the most out of the grant we received to make a significant impact on the St. Louis community and Washington University.</p>
             <p>We would also like to thank Washington University for teaching us the skills needed to be able to start this venture. Without Wash U, it would have been much harder to grow as developers and to get to the position we are in now. We also rely on Wash U students who are an invaluable part of our company. Thanks to them, we are able to help more companies with their software needs.</p>
         </div>
        

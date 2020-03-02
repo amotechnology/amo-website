@@ -70,5 +70,20 @@
   <p>Iterate.</p>
 </div>
 <div>
+
+<br><br>
+<div class="footer">
+  <div>
+    <a class="footer-a" href="index.php">
+      <img src="img/anologo.svg" width="50" height="50"  alt="">
+      Ano.Technology
+    </a>
+  </div>
+  
+  <!-- <div>
+    Social Links:
+  </div><br><br> -->
+  <br><br>
+</div>
 </body>
 </html>
