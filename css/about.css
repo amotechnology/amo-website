@@ -1,0 +1,30 @@
+#acap{
+    font-size: 10px;
+    color: black;
+    text-align: center;
+    margin-right: 40px;
+
+}
+#ocap{
+    font-size: 10px;
+    color: black;
+    text-align: center;
+    margin-right: 50px;
+}
+
+h1{
+    color: #05AF3D;
+    text-align:center;
+}
+
+.jumbotron{
+    background-color:#171717;
+}
+
+body{
+    background-color:#171717;
+}
+
+p{
+    color: white;
+}

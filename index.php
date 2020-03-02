@@ -12,14 +12,14 @@
 </div>
 
 <div>
-  <h3>Why Amo.Technology consulting</h3>
+  <h3>Why us</h3>
   <p>We’re smart computer science students dedicated to solving your problems with technology. We’re here to help. We care about our clients and are committed to ensuring their success.</p>
 </div>
 
 <div>
   <h3>Who we serve</h3>
-  <p>St. Louis Business: Empower local businesses with technology and promote the local tech industry by building a connection to Wash U students.</p>
-  <p>Students: Provide valuable real-world software engineering work to students during the semester that fit into their academic schedules and allow them to apply their skills from class.</p>
+  <p>St. Louis Business: Add value to local businesses with technology and strengthen the connection between St. Louis tech and Wash U students.</p>
+  <p>Students: Provide valuable real-world software engineering work during the semester that fits into their academic schedules.</p>
 </div>
 
 <div>
