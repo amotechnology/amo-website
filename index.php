@@ -4,16 +4,16 @@
 </head>
 
 <body>
-<nav class="navbar navbar-expand-sm bg-dark">
+<nav class="navbar navbar-expand-sm navbar-custom sticky-top">
   <ul class="navbar-nav">
     <li class="nav-item">
-      <a class="nav-link disabled" href="home.php">Home</a>
+      <a class="nav-link navbar-brand" href="index.php">Home</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="about.php">About</a>
+      <a class="nav-link navbar-brand" href="about.php">About</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Link 3</a>
+      <a class="nav-link navbar-brand" href="contact.php">Contact Us</a>
     </li>
   </ul>
 </nav>
