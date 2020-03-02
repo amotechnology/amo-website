@@ -4,6 +4,20 @@
 </head>
 
 <body>
+    <nav class="navbar navbar-expand-sm bg-dark">
+    <ul class="navbar-nav">
+        <li class="nav-item">
+        <a class="nav-link" href="index.php">Home</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link disabled" href="about.php">About</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="#">Link 3</a>
+        </li>
+    </ul>
+    </nav>
+
     <div class="container">
         <div class="jumbotron">
             <h1>About Us</h1>
