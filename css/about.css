@@ -1,13 +1,13 @@
 #acap{
     font-size: 10px;
-    color: black;
+    color: white;
     text-align: center;
     margin-right: 40px;
 
 }
 #ocap{
     font-size: 10px;
-    color: black;
+    color: white;
     text-align: center;
     margin-right: 50px;
 }
@@ -27,4 +27,8 @@ body{
 
 p{
     color: white;
+}
+
+.headshots{
+    margin-top: 50px;
 }

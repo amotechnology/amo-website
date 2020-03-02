@@ -21,7 +21,7 @@
             consulting group Amo.Technology. 
         </p>
         <div class="container">
-            <div class="row">
+            <div class="row headshots">
                 <div class="col-6">
                     <figure> 
                         <img src="img/andrew.jpeg" alternate="Andrew Mitra, Washington University in St. Louis '21'">
