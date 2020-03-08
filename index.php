@@ -41,18 +41,20 @@
 
 <div>
   <h3>Why us</h3>
-  <p>We’re smart computer science students dedicated to solving your problems with technology. We’re here to help. We care about our clients and are committed to ensuring their success.</p>
+  <p>Our student consultants all have experience with full stack web development and are more than halfway through the computer science major. ALl of our students are very experienced with PHP, SQL, Javascript along with a variety of other languages and packages. Our students are very dedicated and willing to commit at least 10 hours a week.</p>
 </div>
 
 <div>
   <h3>Who we serve</h3>
-  <p>St. Louis Business: Add value to local businesses with technology and strengthen the connection between St. Louis tech and Wash U students. <a class="hyperlink-change" href="https://docs.google.com/forms/d/e/1FAIpQLScmWtM68ttSFSujNlNqGmJ09FSPTa7CKpnaEGImf9pnDB8I2g/viewform" target="_blank">Schedule Consultation</a>.</p>
-  <p>Students: Provide valuable real-world software engineering work during the semester that fits into their academic schedules. <a class="hyperlink-change" href="https://docs.google.com/forms/d/e/1FAIpQLSe24nCF1n-xwSImOXu5GiBat4MPV6f80QvljgU6iI-n_aM23A/viewform" target="_blank">Apply Here</a>.</p>
+  <p>St. Louis Business: Add value to local businesses with technology and strengthen the connection between St. Louis tech and Wash U students. </p>
+  <a class="btn btn-primary btn-custom" href="https://docs.google.com/forms/d/e/1FAIpQLScmWtM68ttSFSujNlNqGmJ09FSPTa7CKpnaEGImf9pnDB8I2g/viewform" target="_blank" role="button">Submit Interest Form</a>
+  <p>Students: Provide valuable real-world software engineering work during the semester that fits into their academic schedules. </p>
+<a class="btn btn-primary btn-custom" href="https://docs.google.com/forms/d/e/1FAIpQLSe24nCF1n-xwSImOXu5GiBat4MPV6f80QvljgU6iI-n_aM23A/viewform" target="_blank" role="button">Apply Here</a>
 </div>
 
 <div>
-  <h3>Passion</h3>
-  <p>We also build pro-bono technology solutions for St. Louis nonprofits and socially driven businesses through our club Developer Student Clubs (DSC) Wash U.</p>
+  <h3>Community</h3>
+  <p>We’re dedicated to helping the St Louis community. Last year, we launched Developer Students Clubs (DSC) Wash U to build pro-bono technology solutions for St. Louis nonprofits and socially driven businesses. If you’re a locally based, non-profit or socially driven business that needs tech help click the button below to apply to work with us. </p>
 </div>
 
 <div>
@@ -75,8 +77,8 @@
 <div class="footer">
   <div>
     <a class="footer-a" href="index.php">
-      <img src="img/anologo.svg" width="50" height="50"  alt="">
-      Ano.Technology
+      Phone number: 973-856-1860
+      Address: 1 Brookings Drive, St. Louis MO 63105
     </a>
   </div>
   
