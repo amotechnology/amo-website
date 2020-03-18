@@ -4,32 +4,7 @@
 </head>
 
 <body>
-<nav class="navbar navbar-expand-md bg-dark navbar-dark navbar-custom sticky-top">
-  <a class="navbar-brand" href="index.php">
-    <img src="img/anologo.svg" width="50" height="50" class="d-inline-block align-top" alt="">
-  </a>
-
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link navbar-brand" href="index.php">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link navbar-brand" href="about.php">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link navbar-brand" href="contact.php">Contact Us</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link navbar-brand" href="acknowledgements.php">Acknowledgements</a>
-        </li>
-      </ul>
-  </div>  
-</nav>
-<br>
+<?php require 'nav.php' ?>
 
     <div class="container">
         <div>
@@ -37,25 +12,34 @@
         </div>
 
         <div>
-            <p>Oliver and Andrew would like to thank 10KE for supporting us. We were able to start Amo.Technology thanks to the grant we received from 10KE. We wish to make the most out of the grant we received to make a significant impact on the St. Louis community and Washington University.</p>
-            <p>We would also like to thank Washington University for teaching us the skills needed to be able to start this venture. Without Wash U, it would have been much harder to grow as developers and to get to the position we are in now. We also rely on Wash U students who are an invaluable part of our company. Thanks to them, we are able to help more companies with their software needs.</p>
+            <br>
+            <p>Amo.Technology never would have launched without the generous support and guidance of Washington University, Google Developers, and 10,000 Entrepreneurs. </p>
+            <div class="row thanks">
+              <div class="col-2">
+                <img src="img/washu.png" alt="washu">
+              </div>
+              <div class="col-10">
+                <p>Our Wash U professors taught us everything we know about computer science. Special thanks also to Dr. Cytron and Prof. McLaughlin who have advised us since launching our club DSC Wash U. </p>
+              </div>
+            </div>
+
+            <div class="row thanks">
+              <div class="col-2">
+                <img src="img/google.png" alt="google">
+              </div>
+              <div class="col-10">
+                <p>Google Developers provided us with invaluable resources and guidance when we launched DSC Wash U, including flying Co-Founder Olly Cohen ‘21 out to Google’s campus in Sunnyvale, CA for training.  </p>
+              </div>
+            </div>
+          
+            <div class="row thanks">
+              <div class="col-2">
+                <img src="img/10ke.png" alt="10ke">
+              </div>
+              <div class="col-10">
+                <p>Thank you 10,000 Entrepreneurs for giving us the final push to start Amo.Technology by awarding us a startup grant.  </p>
+              </div>
+            </div>
         </div>
-       
-    </div>
 
-<div class="footer">
-  <div>
-    <a class="footer-a" href="index.php">
-      Phone number: 973-856-1860
-      <br>
-      Address: 1 Brookings Drive, St. Louis MO 63105
-    </a>
-  </div>
-  
-  <!-- <div>
-    Social Links:
-  </div><br><br> -->
-  <br><br>
-</div>
-
-</body>
+<?php require 'footer.php' ?>
