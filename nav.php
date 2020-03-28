@@ -18,6 +18,9 @@
           <a class="nav-link navbar-brand" href="contact.php">Contact Us</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link navbar-brand" href="careers.php">Careers</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link navbar-brand" href="acknowledgements.php">Acknowledgements</a>
         </li>
       </ul>

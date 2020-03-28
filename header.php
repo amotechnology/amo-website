@@ -9,11 +9,10 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> 
 
-    
+
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/button.css">
     <link rel="stylesheet" href="css/footer.css">  
-    <link rel="canonical" href="https://getbootstrap.com/docs/4.1/examples/sticky-footer/">
 
     <!-- Universal Custom CSS -->
     <link rel="stylesheet" href="css/all.css">
@@ -24,7 +23,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     
     <!-- Favicon --> 
-    <link rel="icon" type="image/png" href="img/favicon.png">
+    <link rel="icon" type="image/x-icon" href="http://ec2-3-19-255-161.us-east-2.compute.amazonaws.com/amo-website/img/favicon.ico">
 
 
     <title>Amo.Technology</title>

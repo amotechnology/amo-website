@@ -16,12 +16,12 @@
 
 <div>
   <h3>Why Us</h3>
-  <p>Amo.Technology hires only the most talented computer science students at Wash U. All consultants have full stack web development experience and the ability to learn new technologies fast. They are often recruited by Google, Amazon, Square, and other Silicon Valley companies immediately after graduating, which has made it difficult for St. Louis businesses to build strong relationships with them. </p>
+  <p>Amo.Technology hires only the most talented computer science students at Wash U. They all have full stack development experience. These students are often recruited by Google, Amazon, and other Silicon Valley companies immediately after graduating, which makes it difficult for St. Louis businesses to build strong relationships with them. </p>
 </div>
 
 <div>
   <h3>Who We Serve</h3>
-  <p><strong>St. Louis Businesses</strong>: We solve your technology problems and provide an early access point to Wash U Computer Science students.   </p>
+  <p><strong>St. Louis Businesses</strong>: We solve your technology problems and provide an early access point to Wash U computer science students.   </p>
   <a class="btn btn-primary btn-custom" href="https://docs.google.com/forms/d/e/1FAIpQLScmWtM68ttSFSujNlNqGmJ09FSPTa7CKpnaEGImf9pnDB8I2g/viewform" target="_blank" role="button">Submit Interest</a>
   <br><br>
   <p><strong>Wash U Students</strong>: We provide valuable real-world software engineering work during the semester that fits into your academic schedule. </p>
@@ -39,7 +39,7 @@
   <p>Listen - Understand what our client wants.</p>
   <p>Design - Solve the problem.</p>
   <p>Build - Write the code.</p>
-  <p>Reflect - What did we get wrong? How can we improve?</p>
+  <p>Reflect - Evaluate what can be improved.</p>
   <p>Iterate.</p>
 </div>
 
